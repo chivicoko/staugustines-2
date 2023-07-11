@@ -1,0 +1,836 @@
+Uri: https://fonts.googleapis.com/css2?family=Exo:wght@300;400;500;600;700;800&display=swap
+File Name: C:\Downloaded Web Sites\htmldemo.net\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Exo:wght@300;400;500;600;700;800&display=swap);body{font-family:Exo,sans-serif;font-weight:400;font-style:normal;color:
+File Name: C:\Downloaded Web Sites\htmldemo.net\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/exo/v20/4UaZrEtFpBI4f1ZSIK9d4LjJ4g03CwM.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\exo\v20\4UaZrEtFpBI4f1ZSIK9d4LjJ4g03CwM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo/v20/4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3CwM.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\exo\v20\4UaZrEtFpBI4f1ZSIK9d4LjJ4lM3CwM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo/v20/4UaZrEtFpBI4f1ZSIK9d4LjJ4mE3CwM.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\exo\v20\4UaZrEtFpBI4f1ZSIK9d4LjJ4mE3CwM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo/v20/4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wCwM.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\exo\v20\4UaZrEtFpBI4f1ZSIK9d4LjJ4o0wCwM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo/v20/4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwCwM.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\exo\v20\4UaZrEtFpBI4f1ZSIK9d4LjJ4rQwCwM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/exo/v20/4UaZrEtFpBI4f1ZSIK9d4LjJ4tMwCwM.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\s\exo\v20\4UaZrEtFpBI4f1ZSIK9d4LjJ4tMwCwM.ttf
+Content Type: font/ttf
+
+Uri: https://htmldemo.net/edumate-v1/edumate/about-us.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\about-us.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/css/plugins/animate.min.css
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\css\plugins\animate.min.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/css/plugins/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\css\plugins\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/css/plugins/default.css
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\css\plugins\default.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/css/plugins/fontawesome.min.css
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\css\plugins\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/css/plugins/magnific-popup.css
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\css\plugins\magnific-popup.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/css/plugins/slick.css
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\css\plugins\slick.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/css/style.min.css
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/fonts/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\fonts\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/fonts/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\fonts\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/fonts/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\fonts\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/fonts/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\fonts\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/fonts/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\fonts\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/fonts/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\fonts\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/fonts/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\fonts\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/fonts/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\fonts\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/fonts/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\fonts\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/fonts/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\fonts\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/fonts/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\fonts\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/fonts/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\fonts\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/fonts/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\fonts\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/fonts/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\fonts\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/fonts/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\fonts\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/fonts/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\fonts\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/fonts/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\fonts\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/fonts/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\fonts\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/about/about-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\about\about-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/about/about-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\about\about-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/about/about-3.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\about\about-3.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/about/about-4.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\about\about-4.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/about/icon/icon-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\about\icon\icon-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/about/icon/icon-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\about\icon\icon-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/about/icon/icon-3.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\about\icon\icon-3.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/about/icon/icon-4.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\about\icon\icon-4.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/author-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\author-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/author-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\author-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/author-3.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\author-3.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/banner.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\banner.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/blog-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\blog-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/blog-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\blog-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/blog-3.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\blog-3.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/blog-4.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\blog-4.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/blog-5.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\blog-5.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/blog-6.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\blog-6.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/blog-7.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\blog-7.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/blog-8.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\blog-8.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/blog-9.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\blog-9.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/blog-details.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\blog-details.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/campus-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\campus-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/campus-2-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\campus-2-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/campus-2-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\campus-2-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/campus-2-3.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\campus-2-3.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/campus-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\campus-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/counter-bg-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\counter-bg-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/counter-bg.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\counter-bg.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses-details.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses-details.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses-list/courses-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses-list\courses-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses-list/courses-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses-list\courses-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses-list/courses-3.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses-list\courses-3.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses-list/courses-4.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses-list\courses-4.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses-list/courses-5.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses-list\courses-5.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses-list/courses-6.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses-list\courses-6.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses/courses-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses\courses-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses/courses-10.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses\courses-10.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses/courses-11.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses\courses-11.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses/courses-12.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses\courses-12.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses/courses-13.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses\courses-13.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses/courses-14.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses\courses-14.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses/courses-15.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses\courses-15.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses/courses-16.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses\courses-16.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses/courses-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses\courses-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses/courses-3.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses\courses-3.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses/courses-4.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses\courses-4.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses/courses-5.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses\courses-5.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses/courses-6.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses\courses-6.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses/courses-7.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses\courses-7.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses/courses-8.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses\courses-8.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/courses/courses-9.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\courses\courses-9.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/dot.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\dot.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/event-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\event-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/event-banner.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\event-banner.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/event-details.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\event-details.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/favicon.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\favicon.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/features-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\features-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/features-bg.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\features-bg.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/features.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\features.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery-masonry/gallery-01.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery-masonry\gallery-01.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery-masonry/gallery-02.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery-masonry\gallery-02.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery-masonry/gallery-03.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery-masonry\gallery-03.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery-masonry/gallery-04.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery-masonry\gallery-04.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery-masonry/gallery-05.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery-masonry\gallery-05.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery-masonry/gallery-06.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery-masonry\gallery-06.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery-masonry/gallery-07.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery-masonry\gallery-07.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery-masonry/gallery-08.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery-masonry\gallery-08.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery-masonry/gallery-09.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery-masonry\gallery-09.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery-masonry/gallery-10.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery-masonry\gallery-10.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery-masonry/gallery-11.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery-masonry\gallery-11.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery/gallery-01.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery\gallery-01.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery/gallery-02.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery\gallery-02.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery/gallery-03.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery\gallery-03.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery/gallery-04.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery\gallery-04.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery/gallery-05.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery\gallery-05.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery/gallery-06.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery\gallery-06.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery/gallery-07.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery\gallery-07.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery/gallery-08.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery\gallery-08.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery/gallery-09.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery\gallery-09.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery/gallery-10.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery\gallery-10.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery/gallery-11.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery\gallery-11.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/gallery/gallery-12.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\gallery\gallery-12.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/icon/icon-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\icon\icon-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/icon/icon-2-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\icon\icon-2-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/icon/icon-2-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\icon\icon-2-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/icon/icon-2-3.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\icon\icon-2-3.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/icon/icon-2-4.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\icon\icon-2-4.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/icon/icon-2-5.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\icon\icon-2-5.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/icon/icon-2-6.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\icon\icon-2-6.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/icon/icon-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\icon\icon-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/icon/icon-3.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\icon\icon-3.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/logo.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\logo.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/newsletter-bg-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\newsletter-bg-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/page-banner.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\page-banner.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/post-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\post-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/post-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\post-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/post-3.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\post-3.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/post-4.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\post-4.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/product-details.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\product-details.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/product/banner.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\product\banner.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/product/product-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\product\product-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/product/product-10.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\product\product-10.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/product/product-11.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\product\product-11.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/product/product-12.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\product\product-12.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/product/product-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\product\product-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/product/product-3.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\product\product-3.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/product/product-4.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\product\product-4.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/product/product-5.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\product\product-5.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/product/product-6.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\product\product-6.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/product/product-7.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\product\product-7.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/product/product-8.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\product\product-8.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/product/product-9.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\product\product-9.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/slider-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\slider-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/slider-2-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\slider-2-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/slider-2-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\slider-2-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/slider-2-3.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\slider-2-3.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/slider-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\slider-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/slider-3-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\slider-3-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/slider-3-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\slider-3-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/teachers/teacher-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\teachers\teacher-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/teachers/teacher-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\teachers\teacher-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/teachers/teacher-3.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\teachers\teacher-3.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/teachers/teacher-4.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\teachers\teacher-4.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/teachers/teacher-5.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\teachers\teacher-5.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/teachers/teacher-6.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\teachers\teacher-6.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/teachers/teacher-7.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\teachers\teacher-7.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/teachers/teacher-8.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\teachers\teacher-8.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/testimonials-1.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\testimonials-1.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/testimonials-2.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\testimonials-2.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/images/testimonials-3.webp
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\images\testimonials-3.webp
+Content Type: image/webp
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/js/main.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/js/plugins/ajax-contact.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\js\plugins\ajax-contact.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/js/plugins/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\js\plugins\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/js/plugins/imagesloaded.pkgd.min.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\js\plugins\imagesloaded.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/js/plugins/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\js\plugins\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/js/plugins/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\js\plugins\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/js/plugins/popper.min.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\js\plugins\popper.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/js/plugins/slick.min.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\js\plugins\slick.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/js/plugins/wow.min.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\js\plugins\wow.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/js/vendor/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\js\vendor\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/edumate-v1/edumate/assets/js/vendor/modernizr-3.7.1.min.js
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\assets\js\vendor\modernizr-3.7.1.min.js
+Content Type: application/javascript
+
+Uri: https://htmldemo.net/edumate-v1/edumate/blog-details.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\blog-details.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/blog-left-sidebar.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\blog-left-sidebar.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/blog-right-sideba.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\blog-right-sideba.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/blog.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\blog.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/contact.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\contact.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/courses-details.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\courses-details.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/event-2.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\event-2.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/event-details.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\event-details.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/event.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\event.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/faq.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\faq.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/gallery-masonry.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\gallery-masonry.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/gallery.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\gallery.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/index-2.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\index-2.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/index-3.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\index-3.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/index.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\index.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/login.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\login.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/notice.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\notice.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/our-courses-2.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\our-courses-2.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/our-courses-3.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\our-courses-3.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/our-courses-left-sidebar.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\our-courses-left-sidebar.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/our-courses-list-left-sidebar.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\our-courses-list-left-sidebar.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/our-courses-list-right-sidebar.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\our-courses-list-right-sidebar.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/our-courses-list.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\our-courses-list.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/our-courses-right-sidebar.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\our-courses-right-sidebar.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/our-courses.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\our-courses.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/product-details.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\product-details.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/register.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\register.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/shop-left-sidebar.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\shop-left-sidebar.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/shop-right-sidebar.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\shop-right-sidebar.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/shop.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\shop.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/teacher-details.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\teacher-details.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/teachers.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\teachers.html
+Content Type: text/html
+
+Uri: https://htmldemo.net/edumate-v1/edumate/testimonial.html
+File Name: C:\Downloaded Web Sites\htmldemo.net\edumate-v1\edumate\testimonial.html
+Content Type: text/html
+
